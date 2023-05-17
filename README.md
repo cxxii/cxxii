@@ -3,7 +3,7 @@
 
 **About Me**  
 
-- 🌱 I’m currently learning [Java](https://java-programming.mooc.fi/) and various [CS concepts]()
-- 🔄 I’m a career switcher from the finance industry
-- 💬 Ask me about sports, films, planes and Vegas
-- ⚡ Fun fact: I spent a year working on a recent film about a certain electric yellow mouse
+- 🌱 &nbsp; I’m currently learning [Java](https://java-programming.mooc.fi/) and various [CS concepts]()
+- 🔄 &nbsp; I’m a career switcher from the finance industry
+- 💬 &nbsp; Ask me about sports, films, planes and Vegas
+- ⚡ &nbsp; Fun fact: I spent a year working on a recent film about a certain electric yellow mouse
