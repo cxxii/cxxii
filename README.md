@@ -1,7 +1,8 @@
 ## Hi, I'm Callum &nbsp; 👋  
 
 
-[![https://www.linkedin.com/in/c-tt-c/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] &nbsp; &nbsp; ![[LeetCode](https://leetcode.com/C22C/)](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndoe/)
+ &nbsp; &nbsp; ![[LeetCode](https://leetcode.com/C22C/)](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
 <br>
